@@ -4,7 +4,7 @@ by Da Long, Zheng Wang, [Aditi Krishnapriyan](https://a1k12.github.io/), [Robert
 
 <p align="center">
     <br>
-    <img src="https://github.com/longda98me/AutoIP-A-United-Framework-to-Integrate-Physics-into-Gaussian-Processes" width="800" />
+    <img src="allen.png" width="800" />
     <br>
 <p>
 
@@ -52,13 +52,12 @@ Feel free to contact us via `dl932@cs.utah.edu` or `u1368737@utah.edu`
 Please cite our paper if it is helpful to you
 
 ```
-@inproceedings{
-li2022infinitefidelity,
-title={Infinite-Fidelity Coregionalization  for Physical Simulation},
-author={Shibo Li and Zheng Wang and Robert Kirby and Shandian Zhe},
-booktitle={Advances in Neural Information Processing Systems},
-editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
-year={2022},
-url={https://openreview.net/forum?id=dUYLikScE-}
+@inproceedings{long2022autoip,
+  title={AutoIP: A United Framework to Integrate Physics into Gaussian Processes},
+  author={Long, Da and Wang, Zheng and Krishnapriyan, Aditi and Kirby, Robert and Zhe, Shandian and Mahoney, Michael},
+  booktitle={International Conference on Machine Learning},
+  pages={14210--14222},
+  year={2022},
+  organization={PMLR}
 }
 ```
