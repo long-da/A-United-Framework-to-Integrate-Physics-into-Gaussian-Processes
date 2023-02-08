@@ -2,9 +2,17 @@
 
 by Da Long, Zheng Wang, [Aditi Krishnapriyan](https://a1k12.github.io/), [Robert Kirby](https://users.cs.utah.edu/~kirby/), [Shandian Zhe](https://users.cs.utah.edu/~zhe/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
 
+
 <p align="center">
     <br>
-    <img src="allen.png" width="800" />
+    <img src="/images/pen.png" width="800" />
+    <br>
+<p>
+
+
+<p align="center">
+    <br>
+    <img src="/images/allen.png" width="800" />
     <br>
 <p>
 
