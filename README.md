@@ -38,7 +38,7 @@ We implemented our model by Jax and pytorch. For Jax version, Jax and Optax --- 
 * With latent source + damping:&nbsp;&nbsp;&nbsp;  
     ./pytorch_version/latent_damping.py
 
-To run noisy data for pendulum, add "_noise" to the end. For example, to run noisy damping pendulum: use ./Jax_version/damping_noise.py or ./pytorch_version/damping_noise.py.
+To run noisy pendulum, add "_noise" to the end. For example, to run noisy damping pendulum: use ./Jax_version/damping_noise.py or ./pytorch_version/damping_noise.py.
 
 ### Allen-Cahn
 
